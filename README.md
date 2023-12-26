@@ -1,0 +1,1 @@
+This repository is comprised of the projects I have done while completing the cs50 Artificial Intelligence course from Harvard.
